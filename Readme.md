@@ -1,5 +1,9 @@
-Image Caption Genrator
+#Image Caption Genrator
 
-Done BY:
-https://github.com/tabspacecoder
-https://github.com/NikhilJeikar
+##Done By:
+  - https://github.com/tabspacecoder
+  - https://github.com/NikhilJeikar
+  - https://github.com/BhavyaSreeMatam
+
+
+
